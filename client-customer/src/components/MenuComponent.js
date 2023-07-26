@@ -34,18 +34,7 @@ class Menu extends Component {
               </li>
               {cates}
             </ul>
-            <ul class="navbar-nav ml-auto">
-            <form>
-              <div class="input-group mb-3">
-                <input type="search" class="form-control" placeholder="Search" />
-                <div class="input-group-append">
-                  <input className='btn btn-ouline-danger' type="submit" value="SEARCH" />
-                </div>
-              </div>
-            </form>
-            </ul>
-
-            
+           
           </div>  
         </nav>
         
